@@ -16,3 +16,14 @@ My name is Bernardo. I am currently studying Computer Science at Unifeso and I a
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <br>
 </div>
+
+### Contact
+<div>
+  <a href="https://instagram.com/bernardo_awano12" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/bernardo-muniz-099841352/" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+  </a>
+</div>
