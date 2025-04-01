@@ -19,11 +19,7 @@ My name is Bernardo. I am currently studying Computer Science at Unifeso and I a
 
 ### Contact
 <div>
-  <a href="https://instagram.com/bernardo_awano12" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <a href="https://instagram.com/bernardo_awano12" target="_blank"> <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>
   
-  <a href="https://www.linkedin.com/in/bernardo-muniz-099841352/" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>
 </div>
