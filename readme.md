@@ -2,6 +2,8 @@
 
 My name is Bernardo. I am currently studying Computer Science at Unifeso and I am looking for an internship in the area. I have knowledge in web development, I am very dedicated, competent and I am always studying, wanting to learn more and more. I like programming and my goal is to create web applications that solve real problems.
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right">
+
 ### Tech Skills
 <div>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -13,11 +15,4 @@ My name is Bernardo. I am currently studying Computer Science at Unifeso and I a
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <br>
-  
 </div>
-
-
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right">
